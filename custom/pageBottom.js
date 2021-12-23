@@ -3,7 +3,7 @@ document.write('<div id="bottomBar">');
 // Centered:
 // Logo, just the logo.
 // document.write('<img src="custom/logo.jpg" alt="logo"/>');
-document.write('<div id="bottomContent">');
+document.write('<div id="bottomContent" style="display:none;">');
 document.write('<div style="padding-bottom: 10px;"><a href="https://github.com/tigerfarm/OwlClient">GitHub project: OwlClient</a></div>');
 document.write('<a href="https://twilio.learnupon.com/store">Training</a>');
 document.write(' | <a href="https://www.twilio.com/support-plans">Support</a>');
